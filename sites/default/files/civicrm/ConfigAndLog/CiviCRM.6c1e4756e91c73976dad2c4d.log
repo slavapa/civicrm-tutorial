@@ -1,2 +1,44 @@
 Jun 16 08:44:39  [info] Creating canary table
 
+Jun 18 20:47:47  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Jun 18 20:47:47  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Jun 18 20:47:47  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Jun 18 20:53:04  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Jun 18 20:53:04  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Jun 18 20:53:04  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
