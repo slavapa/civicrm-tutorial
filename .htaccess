@@ -1,3 +1,7 @@
+AddDefaultCharset UTF-8
+php_value max_execution_time 6000
+php_value memory_limit 128M
+
 #
 # Apache/PHP/Drupal settings:
 #
